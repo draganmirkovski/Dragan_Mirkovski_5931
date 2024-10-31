@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lecture5/listofanimals/animalkingdom.iml" filepath="$PROJECT_DIR$/lecture5/listofanimals/animalkingdom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trial_midterm/basicjavaprogram/basicjavaprogram.iml" filepath="$PROJECT_DIR$/trial_midterm/basicjavaprogram/basicjavaprogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/buildingherosdreamcar/buildingherosdreamcar.iml" filepath="$PROJECT_DIR$/lecture5/buildingherosdreamcar/buildingherosdreamcar.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/carshowroom/carshowroom.iml" filepath="$PROJECT_DIR$/lecture4/carshowroom/carshowroom.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/draganmirkovski1010.iml" filepath="$PROJECT_DIR$/.idea/draganmirkovski1010.iml" />
@@ -10,14 +11,17 @@
       <module fileurl="file://$PROJECT_DIR$/lecture 3/endlessloopofdoom/endlessloopofdoom.iml" filepath="$PROJECT_DIR$/lecture 3/endlessloopofdoom/endlessloopofdoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/carshowroom/fleetmanager/fleetmanager.iml" filepath="$PROJECT_DIR$/lecture4/carshowroom/fleetmanager/fleetmanager.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/heroesstatstracker/heroesstatstracker.iml" filepath="$PROJECT_DIR$/lecture4/heroesstatstracker/heroesstatstracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trial_midterm/inheritanceandpolymorfism/inheritanceandpolymorfism.iml" filepath="$PROJECT_DIR$/trial_midterm/inheritanceandpolymorfism/inheritanceandpolymorfism.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/journeyofaherosvehicle/journeyofaherosvehicle.iml" filepath="$PROJECT_DIR$/lecture5/journeyofaherosvehicle/journeyofaherosvehicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture 3/lecture 3.iml" filepath="$PROJECT_DIR$/lecture 3/lecture 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/lecture4.iml" filepath="$PROJECT_DIR$/lecture4/lecture4.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/lecture5.iml" filepath="$PROJECT_DIR$/lecture5/lecture5.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/magicnumberbox/magicnumberbox.iml" filepath="$PROJECT_DIR$/lecture4/magicnumberbox/magicnumberbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture 3/matrixpuzzle/matrixpuzzle.iml" filepath="$PROJECT_DIR$/lecture 3/matrixpuzzle/matrixpuzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trial_midterm/object-orientedprogram/object-orientedprogram.iml" filepath="$PROJECT_DIR$/trial_midterm/object-orientedprogram/object-orientedprogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/taleoftheegg/taleoftheegg.iml" filepath="$PROJECT_DIR$/lecture5/taleoftheegg/taleoftheegg.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture 3/treasurehelp/treasurehelp.iml" filepath="$PROJECT_DIR$/lecture 3/treasurehelp/treasurehelp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trial_midterm/trial.iml" filepath="$PROJECT_DIR$/trial_midterm/trial.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/utilitymanagement/utilitymanagement.iml" filepath="$PROJECT_DIR$/lecture5/utilitymanagement/utilitymanagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture 3/vaultofsecrets/vaultofsecrets.iml" filepath="$PROJECT_DIR$/lecture 3/vaultofsecrets/vaultofsecrets.iml" />
     </modules>
