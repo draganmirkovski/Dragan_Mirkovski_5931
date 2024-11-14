@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lecture6/ComprehensiveUniversityManagementSystem/ComprehensiveUniversityManagementSystem.iml" filepath="$PROJECT_DIR$/lecture6/ComprehensiveUniversityManagementSystem/ComprehensiveUniversityManagementSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/MidTermExam202411.iml" filepath="$PROJECT_DIR$/MidTermExam202411/MidTermExam202411.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/listofanimals/animalkingdom.iml" filepath="$PROJECT_DIR$/lecture5/listofanimals/animalkingdom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture6/animalkingdomcouncil/animalkingdomcouncil.iml" filepath="$PROJECT_DIR$/lecture6/animalkingdomcouncil/animalkingdomcouncil.iml" />
       <module fileurl="file://$PROJECT_DIR$/trial_midterm/basicjavaprogram/basicjavaprogram.iml" filepath="$PROJECT_DIR$/trial_midterm/basicjavaprogram/basicjavaprogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/buildingherosdreamcar/buildingherosdreamcar.iml" filepath="$PROJECT_DIR$/lecture5/buildingherosdreamcar/buildingherosdreamcar.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/carshowroom/carshowroom.iml" filepath="$PROJECT_DIR$/lecture4/carshowroom/carshowroom.iml" />
@@ -12,16 +14,19 @@
       <module fileurl="file://$PROJECT_DIR$/lecture 3/endlessloopofdoom/endlessloopofdoom.iml" filepath="$PROJECT_DIR$/lecture 3/endlessloopofdoom/endlessloopofdoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/first/first.iml" filepath="$PROJECT_DIR$/MidTermExam202411/first/first.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/carshowroom/fleetmanager/fleetmanager.iml" filepath="$PROJECT_DIR$/lecture4/carshowroom/fleetmanager/fleetmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture6/galactictransportationhub/galactictransportationhub.iml" filepath="$PROJECT_DIR$/lecture6/galactictransportationhub/galactictransportationhub.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/heroesstatstracker/heroesstatstracker.iml" filepath="$PROJECT_DIR$/lecture4/heroesstatstracker/heroesstatstracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/trial_midterm/inheritanceandpolymorfism/inheritanceandpolymorfism.iml" filepath="$PROJECT_DIR$/trial_midterm/inheritanceandpolymorfism/inheritanceandpolymorfism.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/journeyofaherosvehicle/journeyofaherosvehicle.iml" filepath="$PROJECT_DIR$/lecture5/journeyofaherosvehicle/journeyofaherosvehicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture 3/lecture 3.iml" filepath="$PROJECT_DIR$/lecture 3/lecture 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/lecture4.iml" filepath="$PROJECT_DIR$/lecture4/lecture4.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/lecture5.iml" filepath="$PROJECT_DIR$/lecture5/lecture5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture6/lecture7.iml" filepath="$PROJECT_DIR$/lecture6/lecture7.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/magicnumberbox/magicnumberbox.iml" filepath="$PROJECT_DIR$/lecture4/magicnumberbox/magicnumberbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture 3/matrixpuzzle/matrixpuzzle.iml" filepath="$PROJECT_DIR$/lecture 3/matrixpuzzle/matrixpuzzle.iml" />
       <module fileurl="file://$PROJECT_DIR$/trial_midterm/object-orientedprogram/object-orientedprogram.iml" filepath="$PROJECT_DIR$/trial_midterm/object-orientedprogram/object-orientedprogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/second/second.iml" filepath="$PROJECT_DIR$/MidTermExam202411/second/second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture6/shapeshiftersworkshop/shapeshiftersworkshop.iml" filepath="$PROJECT_DIR$/lecture6/shapeshiftersworkshop/shapeshiftersworkshop.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/taleoftheegg/taleoftheegg.iml" filepath="$PROJECT_DIR$/lecture5/taleoftheegg/taleoftheegg.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/third/third.iml" filepath="$PROJECT_DIR$/MidTermExam202411/third/third.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture 3/treasurehelp/treasurehelp.iml" filepath="$PROJECT_DIR$/lecture 3/treasurehelp/treasurehelp.iml" />
