@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lecture6/ComprehensiveUniversityManagementSystem/ComprehensiveUniversityManagementSystem.iml" filepath="$PROJECT_DIR$/lecture6/ComprehensiveUniversityManagementSystem/ComprehensiveUniversityManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalTermExam_202501/DogShelter/DogShelter.iml" filepath="$PROJECT_DIR$/FinalTermExam_202501/DogShelter/DogShelter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalTermExam_202501/FinalTermExam_202501.iml" filepath="$PROJECT_DIR$/FinalTermExam_202501/FinalTermExam_202501.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalTermExam_202501/FlightManagement/FlightManagement.iml" filepath="$PROJECT_DIR$/FinalTermExam_202501/FlightManagement/FlightManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/MidTermExam202411.iml" filepath="$PROJECT_DIR$/MidTermExam202411/MidTermExam202411.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/listofanimals/animalkingdom.iml" filepath="$PROJECT_DIR$/lecture5/listofanimals/animalkingdom.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture6/animalkingdomcouncil/animalkingdomcouncil.iml" filepath="$PROJECT_DIR$/lecture6/animalkingdomcouncil/animalkingdomcouncil.iml" />
