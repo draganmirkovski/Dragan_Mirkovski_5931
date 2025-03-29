@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/FinalTermExam_202501/FinalTermExam_202501.iml" filepath="$PROJECT_DIR$/FinalTermExam_202501/FinalTermExam_202501.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalTermExam_202501/FlightManagement/FlightManagement.iml" filepath="$PROJECT_DIR$/FinalTermExam_202501/FlightManagement/FlightManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/MidTermExam202411.iml" filepath="$PROJECT_DIR$/MidTermExam202411/MidTermExam202411.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExamCIP5931/MidTermExamCIP5931.iml" filepath="$PROJECT_DIR$/MidTermExamCIP5931/MidTermExamCIP5931.iml" />
       <module fileurl="file://$PROJECT_DIR$/computerinterface/MidTermTrial/MidTermTrial.iml" filepath="$PROJECT_DIR$/computerinterface/MidTermTrial/MidTermTrial.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/listofanimals/animalkingdom.iml" filepath="$PROJECT_DIR$/lecture5/listofanimals/animalkingdom.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture6/animalkingdomcouncil/animalkingdomcouncil.iml" filepath="$PROJECT_DIR$/lecture6/animalkingdomcouncil/animalkingdomcouncil.iml" />
@@ -46,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/computerinterface/lesson4/exerciseone/exerciseone.iml" filepath="$PROJECT_DIR$/computerinterface/lesson4/exerciseone/exerciseone.iml" />
       <module fileurl="file://$PROJECT_DIR$/computerinterface/lesson4/exercisetwo/exercisetwoandthree.iml" filepath="$PROJECT_DIR$/computerinterface/lesson4/exercisetwo/exercisetwoandthree.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/first/first.iml" filepath="$PROJECT_DIR$/MidTermExam202411/first/first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExamCIP5931/first_assignment/first_assignment.iml" filepath="$PROJECT_DIR$/MidTermExamCIP5931/first_assignment/first_assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture11/firstassignment/firstassignment.iml" filepath="$PROJECT_DIR$/lecture11/firstassignment/firstassignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4/carshowroom/fleetmanager/fleetmanager.iml" filepath="$PROJECT_DIR$/lecture4/carshowroom/fleetmanager/fleetmanager.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture11/fourthassignment/fourthassignment.iml" filepath="$PROJECT_DIR$/lecture11/fourthassignment/fourthassignment.iml" />
@@ -70,10 +72,12 @@
       <module fileurl="file://$PROJECT_DIR$/trial_midterm/object-orientedprogram/object-orientedprogram.iml" filepath="$PROJECT_DIR$/trial_midterm/object-orientedprogram/object-orientedprogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture8/reflection/reflection.iml" filepath="$PROJECT_DIR$/lecture8/reflection/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/second/second.iml" filepath="$PROJECT_DIR$/MidTermExam202411/second/second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExamCIP5931/second_assignment/second_assignment.iml" filepath="$PROJECT_DIR$/MidTermExamCIP5931/second_assignment/second_assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture11/secondassignment/secondassignment.iml" filepath="$PROJECT_DIR$/lecture11/secondassignment/secondassignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture6/shapeshiftersworkshop/shapeshiftersworkshop.iml" filepath="$PROJECT_DIR$/lecture6/shapeshiftersworkshop/shapeshiftersworkshop.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture5/taleoftheegg/taleoftheegg.iml" filepath="$PROJECT_DIR$/lecture5/taleoftheegg/taleoftheegg.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/third/third.iml" filepath="$PROJECT_DIR$/MidTermExam202411/third/third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExamCIP5931/third_assignment/third_assignment.iml" filepath="$PROJECT_DIR$/MidTermExamCIP5931/third_assignment/third_assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture11/thirdassignment/thirdassignment.iml" filepath="$PROJECT_DIR$/lecture11/thirdassignment/thirdassignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture 3/treasurehelp/treasurehelp.iml" filepath="$PROJECT_DIR$/lecture 3/treasurehelp/treasurehelp.iml" />
       <module fileurl="file://$PROJECT_DIR$/trial_midterm/trial.iml" filepath="$PROJECT_DIR$/trial_midterm/trial.iml" />
